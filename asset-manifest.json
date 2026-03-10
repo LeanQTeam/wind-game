@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wind-game/static/css/main.e6c13ad2.css",
-    "main.js": "/wind-game/static/js/main.e8e36cf5.js",
+    "main.js": "/wind-game/static/js/main.f33b1a10.js",
     "static/js/453.a89dbcc5.chunk.js": "/wind-game/static/js/453.a89dbcc5.chunk.js",
     "index.html": "/wind-game/index.html",
     "main.e6c13ad2.css.map": "/wind-game/static/css/main.e6c13ad2.css.map",
-    "main.e8e36cf5.js.map": "/wind-game/static/js/main.e8e36cf5.js.map",
+    "main.f33b1a10.js.map": "/wind-game/static/js/main.f33b1a10.js.map",
     "453.a89dbcc5.chunk.js.map": "/wind-game/static/js/453.a89dbcc5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.e8e36cf5.js"
+    "static/js/main.f33b1a10.js"
   ]
 }
